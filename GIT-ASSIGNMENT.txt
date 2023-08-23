@@ -1,0 +1,11 @@
+ASSIGNMENT 001 
+
+TITLE-ASSIGNMENT ON GIT/GITHUB
+
+QUESTION-LIST ON DIFFERNT PARADIGMS OF PROGRAMMING LANGUAGES
+
+1. Imperative Programming
+2. Procedural Programming
+3. Functional Programming
+4. Declarative Programming
+5. Object-Oriented Programming
