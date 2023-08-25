@@ -9,3 +9,5 @@ QUESTION-LIST ON DIFFERNT PARADIGMS OF PROGRAMMING LANGUAGES
 3. Functional Programming
 4. Declarative Programming
 5. Object-Oriented Programming
+
+Imperative -procedural-functional-declarative-object-oriented are the common paradigms
